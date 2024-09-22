@@ -1,0 +1,12 @@
+1)waves
+2)limited number of missiles at some level
+3)display score under "game over" when game gets over......................done
+4)increase difficulty as levels advance(increase number of enemies)
+5)correct the enemy spaceship not moving bug
+6)mention the instructions.................................................done
+7)tell the user to press "enter" key to start the game after showing the instructions...done but with space bar
+
+
+
+The problem is that the value of the list have been clear when the game is over. So I have to make a variable which checks if
+the game is over once or not, and if it is, i have to again append the values of the enemy's variable.
